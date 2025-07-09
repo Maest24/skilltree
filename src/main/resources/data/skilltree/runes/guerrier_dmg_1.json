@@ -1,0 +1,16 @@
+{
+  "id": "guerrier_dmg_1",
+  "name": "Dmg 1",
+  "rarity": "COMMUN",
+  "level": 1,
+  "minPlayerLevel": 5,
+  "effects": [
+    {
+      "stat": "damage",
+      "modifier": 0.05
+    }
+  ],
+  "requirements": {
+    "parentRunes": []
+  }
+}

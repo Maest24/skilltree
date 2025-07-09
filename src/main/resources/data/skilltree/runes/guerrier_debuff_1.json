@@ -1,0 +1,16 @@
+{
+  "id": "guerrier_debuff_1",
+  "name": "Debuff 1",
+  "rarity": "EPIQUE",
+  "level": 1,
+  "minPlayerLevel": 5,
+  "effects": [
+    {
+      "stat": "weaken_aoe",
+      "modifier": 1
+    }
+  ],
+  "requirements": {
+    "parentRunes": []
+  }
+}

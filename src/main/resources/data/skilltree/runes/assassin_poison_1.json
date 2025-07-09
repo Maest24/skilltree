@@ -1,0 +1,16 @@
+{
+  "id": "assassin_poison_1",
+  "name": "Poison 1",
+  "rarity": "COMMUN",
+  "level": 1,
+  "minPlayerLevel": 5,
+  "effects": [
+    {
+      "stat": "poison",
+      "modifier": 3
+    }
+  ],
+  "requirements": {
+    "parentRunes": []
+  }
+}
