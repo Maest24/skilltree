@@ -1,0 +1,16 @@
+{
+  "id": "archer_bleed_1",
+  "name": "Bleed 1",
+  "rarity": "EPIQUE",
+  "level": 1,
+  "minPlayerLevel": 5,
+  "effects": [
+    {
+      "stat": "bleed",
+      "modifier": 2
+    }
+  ],
+  "requirements": {
+    "parentRunes": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "archer_crit_1",
+  "name": "Crit 1",
+  "rarity": "COMMUN",
+  "level": 1,
+  "minPlayerLevel": 5,
+  "effects": [
+    {
+      "stat": "crit",
+      "modifier": 0.1
+    }
+  ],
+  "requirements": {
+    "parentRunes": []
+  }
+}

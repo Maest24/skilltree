@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[1.21.1,)"
+license="MIT"
+
+[[mods]]
+modId="skilltreeb"
+version="${file.jarVersion}"
+displayName="SkillTree"
+authors="Maest24"
+description='''
+  Un mod de Skill Tree pour Minecraft 1.21.1, porté sur NeoForge.
+'''
